@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../HelloConsoleAppCSharp/HelloConsoleAppCSharp.csproj" />
   <Project Path="HelloConsoleAppCSharpTests.csproj" />
 </Solution>
